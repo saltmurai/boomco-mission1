@@ -1,6 +1,6 @@
 ## Mission 1 build with NextJS
 
-First, run the development server:
+First clone the project, install using `npm` `yarn` or `pnpm`, then run the development server:
 
 ```bash
 npm run dev
