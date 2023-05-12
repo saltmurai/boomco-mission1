@@ -6,7 +6,12 @@ module.exports = {
     './app/**/*.{js,ts,jsx,tsx,mdx}',
   ],
   theme: {
-    extend: {
+		extend: {
+			colors: {
+				'boomco-purple': '#6555ba',
+				'boomco-bold-text': '#403c52',
+				'boomco-light-text': '#bebdc2'
+			},
       backgroundImage: {
         'gradient-radial': 'radial-gradient(var(--tw-gradient-stops))',
         'gradient-conic':
